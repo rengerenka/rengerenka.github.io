@@ -1,0 +1,11 @@
+h1 {
+  font-size: 24px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #ddd;
+  
+}
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+  background-image:url(renge.png);
+}
