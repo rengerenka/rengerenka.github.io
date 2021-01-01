@@ -1,11 +1,37 @@
-h1 {
-  font-size: 24px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #ddd;
-  
+.copy-container h1 {
+  font-size: 60px;
+  padding-left: 16px;
+}
+.copy-container h2 {
+  font-size: 20px;
+}
+.section-title h3 {
+  font-size: 18px;
 }
 body {
-  margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
-  background-image:url(renge.png);
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+  background-image: url(https://github.com/rengerenka/rengerenka.github.io);
+}
+.header {
+  background-color: rgb(218, 58, 218);
+  color: aliceblue;
+  height: 90px;
+}
+.header-logo {
+  float: left;
+  font-size: 30px;
+  padding: 20px 40px;
+}
+.header-list li {
+  float: left;
+  padding: 30px;
+  font-size: 15px;
+}
+li {
+  list-style: none;
+}
+.top-wrapper {
+  padding: 180ox 0 100px 0;
+
+  width: 120; height: 120;
 }
